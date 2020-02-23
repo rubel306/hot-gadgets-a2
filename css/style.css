@@ -11,3 +11,8 @@
 	background-image: linear-gradient(45deg, #FFB925, #FFD019);
 	border-radius: 10px;
 }
+
+.see-all, .see-all:hover {
+	color: #FF9E04;
+	text-decoration: none;
+}
