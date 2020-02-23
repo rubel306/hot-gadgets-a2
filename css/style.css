@@ -1,0 +1,13 @@
+.buy-now-btn{
+    background-color: #000;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 25px;
+    border: none;
+}
+.carousel-indicators li {
+	width: 25px;
+	height: 8px;
+	background-image: linear-gradient(45deg, #FFB925, #FFD019);
+	border-radius: 10px;
+}
